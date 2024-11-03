@@ -839,6 +839,10 @@ margin-bottom: 24px;
     text-align: left;
   }
 
+  .footer-sub-container:not(:last-child) {
+    margin-bottom: 0;
+  }
+
   .footer-icons-container {
     max-width: 208px;
   }
